@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shadow-sentinel
 - 👀 I’m interested in Engineering,coding,gaming.
-- 🌱 I’m currently learning Mining
-- 💞️ I’m looking to collaborate on how do offline game works..
+- 🌱 I’m a Full time researcher currently working in the field of image processing.
+- 💞
 - 📫 How to reach me... just comment...
 
 <!---
